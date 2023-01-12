@@ -105,10 +105,10 @@ namespace drawing1
             myGraphic.DrawLine(myPen1, 370, 210, 320, 210);
             myGraphic.DrawLine(myPen1, 320, 210, 400, 148);
             myGraphic.DrawLine(myPen1, 530, 351, 425, 280);
-            myGraphic.DrawLine(myPen1, 390, 270, 495, 270);
-            myGraphic.DrawLine(myPen1, 495, 270, 390, 203);
-            myGraphic.DrawLine(myPen1, 390, 203, 458, 203);
-            myGraphic.DrawLine(myPen1, 450, 203, 370, 148);
+            myGraphic.DrawLine(myPen1, 420, 280, 495, 280);
+            myGraphic.DrawLine(myPen1, 495, 285, 445, 209);
+            myGraphic.DrawLine(myPen1, 440, 207, 490, 207);
+            myGraphic.DrawLine(myPen1, 490, 203, 393, 148);
 
             //ดาว
             myGraphic.DrawLine(myPen1, 355, 148, 362, 116);
